@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandeira_de_Manaus.svg/480px-Bandeira_de_Manaus.svg.png",
         "Região": "Norte",
         "Estado": "Amazonas",
         "Capital": "Manaus",
@@ -9,6 +10,7 @@
 
     {
         "id": 2,
+        "Bandeira": "",
         "Região": "Norte",
         "Estado": "Roraima",
         "Capital": "Boa Vista",
@@ -17,6 +19,7 @@
 
     {
         "id": 3,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_de_Porto_Velho.svg/480px-Bandeira_de_Porto_Velho.svg.png",
         "Região": "Norte",
         "Estado": "Rondônia",
         "Capital": "Porto Velho",
@@ -25,6 +28,7 @@
 
     {
         "id": 4,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bandeira_de_Bel%C3%A9m.svg/480px-Bandeira_de_Bel%C3%A9m.svg.png",
         "Região": "Norte",
         "Estado": "Pará",
         "Capital": "Belém",
@@ -33,6 +37,7 @@
 
     {
         "id": 5,
+        "Bandeira": "",
         "Região": "Norte",
         "Estado": "Tocantins",
         "Capital": "Palmas",
@@ -41,6 +46,7 @@
 
     {
         "id": 6,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bandeira_de_Rio_Branco.svg/480px-Bandeira_de_Rio_Branco.svg.png",
         "Região": "Norte",
         "Estado": "Acre",
         "Capital": "Rio Branco",
@@ -49,6 +55,7 @@
 
     {
         "id": 7,
+        "Bandeira": "",
         "Região": "Norte",
         "Estado": "Amapá",
         "Capital": "Macapá",
@@ -57,6 +64,7 @@
 
     {
         "id": 8,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bandeira_de_Porto_Alegre.svg/480px-Bandeira_de_Porto_Alegre.svg.png",
         "Região": "Sul",
         "Estado": "Rio Grande do Sul",
         "Capital": "Porto Alegre",
@@ -65,6 +73,7 @@
 
     {
         "id": 9,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandeira_de_Florian%C3%B3polis.svg/480px-Bandeira_de_Florian%C3%B3polis.svg.png",
         "Região": "Sul",
         "Estado": "Santa Catarina",
         "Capital": "Florianópolis",
@@ -73,6 +82,7 @@
 
     {
         "id": 10,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bandeira_de_Curitiba.svg/480px-Bandeira_de_Curitiba.svg.png",
         "Região": "Sul",
         "Estado": "Paraná",
         "Capital": "Curitiba",
@@ -81,6 +91,7 @@
 
     {
         "id": 11,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bandeira-de-Belo-Horizonte.svg/480px-Bandeira-de-Belo-Horizonte.svg.png",
         "Região": "Sudeste",
         "Estado": "Minas Gerais",
         "Capital": "Belo Horizonte",
@@ -89,6 +100,7 @@
 
     {
         "id": 12,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg/480px-Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg.png",
         "Região": "Sudeste",
         "Estado": "São Paulo",
         "Capital": "São Paulo",
@@ -97,6 +109,7 @@
 
     {
         "id": 13,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/480px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png",
         "Região": "Sudeste",
         "Estado": "Rio de Janeiro",
         "Capital": "Rio de Janeiro",
@@ -105,6 +118,7 @@
 
     {
         "id": 14,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Vit%C3%B3ria.svg/480px-Bandeira_de_Vit%C3%B3ria.svg.png",
         "Região": "Sudeste",
         "Estado": "Espírito Santo",
         "Capital": "Vitória",
@@ -113,6 +127,7 @@
 
     {
         "id": 15,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_de_Cuiab%C3%A1.svg/480px-Bandeira_de_Cuiab%C3%A1.svg.png",
         "Região": "Centro-Oeste",
         "Estado": "Mato Grosso",
         "Capital": "Cuiabá",
@@ -121,6 +136,7 @@
 
     {
         "id": 16,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandeira_de_Campo_Grande.svg/480px-Bandeira_de_Campo_Grande.svg.png",
         "Região": "Centro-Oeste",
         "Estado": "Mato Grosso do Sul",
         "Capital": "Campo Grande",
@@ -129,6 +145,7 @@
 
     {
         "id": 17,
+        "Bandeira": "",
         "Região": "Centro-Oeste",
         "Estado": "Goiás",
         "Capital": "Goiânia",
@@ -137,6 +154,7 @@
 
     {
         "id": 18,
+        "Bandeira": "",
         "Região": "Centro-Oeste",
         "Estado": "Distrito Federal",
         "Capital": "Brasília",
@@ -145,6 +163,7 @@
 
     {
         "id": 19,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg/480px-Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg.png",
         "Região": "Nordeste",
         "Estado": "Maranhão",
         "Capital": "São Luís do Maranhão",
@@ -153,6 +172,7 @@
 
     {
         "id": 20,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandeira_de_Teresina.svg/480px-Bandeira_de_Teresina.svg.png",
         "Região": "Nordeste",
         "Estado": "Piauí",
         "Capital": "Teresina",
@@ -161,6 +181,7 @@
 
     {
         "id": 21,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandeira_de_Fortaleza.svg/480px-Bandeira_de_Fortaleza.svg.png",
         "Região": "Nordeste",
         "Estado": "Ceará",
         "Capital": "Fortaleza",
@@ -169,6 +190,7 @@
 
     {
         "id": 22,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bandeira_de_Natal.svg/480px-Bandeira_de_Natal.svg.png",
         "Região": "Nordeste",
         "Estado": "Rio Grande do Norte",
         "Capital": "Natal",
@@ -177,6 +199,7 @@
 
     {
         "id": 23,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandeira_de_Jo%C3%A3o_Pessoa.svg/480px-Bandeira_de_Jo%C3%A3o_Pessoa.svg.png",
         "Região": "Nordeste",
         "Estado": "Paraíba",
         "Capital": "João Pessoa",
@@ -185,6 +208,7 @@
 
     {
         "id": 24,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandeira_de_Recife.svg/480px-Bandeira_de_Recife.svg.png",
         "Região": "Nordeste",
         "Estado": "Pernambuco",
         "Capital": "Recife",
@@ -193,6 +217,7 @@
 
     {
         "id": 25,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bandeira_de_Macei%C3%B3.svg/480px-Bandeira_de_Macei%C3%B3.svg.png",
         "Região": "Nordeste",
         "Estado": "Alagoas",
         "Capital": "Maceió,",
@@ -201,6 +226,7 @@
 
     {
         "id": 26,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bandeira_de_Aracaju.svg/480px-Bandeira_de_Aracaju.svg.png",
         "Região": "Nordeste",
         "Estado": "Sergipe",
         "Capital": "Aracaju",
@@ -209,6 +235,7 @@
 
     {
         "id": 27,
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bandeira_de_Salvador.svg/480px-Bandeira_de_Salvador.svg.png",
         "Região": "Nordeste",
         "Estado": "Bahia",
         "Capital": "Salvador",
