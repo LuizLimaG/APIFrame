@@ -46,165 +46,148 @@
             }
         ]
     },
-    
+
     {
-        "id": 8,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bandeira_de_Porto_Alegre.svg/480px-Bandeira_de_Porto_Alegre.svg.png",
         "Região": "Sul",
-        "Estado": "Rio Grande do Sul",
-        "Capital": "Porto Alegre",
-        "População": "1.332.570"
+        "regiao": [
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bandeira_de_Porto_Alegre.svg/480px-Bandeira_de_Porto_Alegre.svg.png",
+                "Estado": "Rio Grande do Sul",
+                "Capital": "Porto Alegre",
+                "População": "1.332.570"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandeira_de_Florian%C3%B3polis.svg/480px-Bandeira_de_Florian%C3%B3polis.svg.png",
+                "Estado": "Santa Catarina",
+                "Capital": "Florianópolis",
+                "População": "508.826"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bandeira_de_Curitiba.svg/480px-Bandeira_de_Curitiba.svg.png",
+                "Estado": "Paraná",
+                "Capital": "Curitiba",
+                "População": "1.773.733"
+            }
+        ]
     },
+
     {
-        "id": 9,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandeira_de_Florian%C3%B3polis.svg/480px-Bandeira_de_Florian%C3%B3polis.svg.png",
-        "Região": "Sul",
-        "Estado": "Santa Catarina",
-        "Capital": "Florianópolis",
-        "População": "508.826"
-    },
-    {
-        "id": 10,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bandeira_de_Curitiba.svg/480px-Bandeira_de_Curitiba.svg.png",
-        "Região": "Sul",
-        "Estado": "Paraná",
-        "Capital": "Curitiba",
-        "População": "1.773.733"
-    },
-    {
-        "id": 11,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bandeira-de-Belo-Horizonte.svg/480px-Bandeira-de-Belo-Horizonte.svg.png",
         "Região": "Sudeste",
-        "Estado": "Minas Gerais",
-        "Capital": "Belo Horizonte",
-        "População": "2.315.560"
+        "regiao": [
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bandeira-de-Belo-Horizonte.svg/480px-Bandeira-de-Belo-Horizonte.svg.png",
+                "Estado": "Minas Gerais",
+                "Capital": "Belo Horizonte",
+                "População": "2.315.560"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg/480px-Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg.png",
+                "Estado": "São Paulo",
+                "Capital": "São Paulo",
+                "População": "11.451.245"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/480px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png",
+                "Estado": "Rio de Janeiro",
+                "Capital": "Rio de Janeiro",
+                "População": "6.211.423"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Vit%C3%B3ria.svg/480px-Bandeira_de_Vit%C3%B3ria.svg.png",
+                "Estado": "Espírito Santo",
+                "Capital": "Vitória",
+                "População": "365.855"
+            }
+        ]
     },
+
     {
-        "id": 12,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg/480px-Bandeira_da_cidade_de_S%C3%A3o_Paulo.svg.png",
-        "Região": "Sudeste",
-        "Estado": "São Paulo",
-        "Capital": "São Paulo",
-        "População": "11.451.245"
-    },
-    {
-        "id": 13,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bandeira_da_cidade_do_Rio_de_Janeiro.svg/480px-Bandeira_da_cidade_do_Rio_de_Janeiro.svg.png",
-        "Região": "Sudeste",
-        "Estado": "Rio de Janeiro",
-        "Capital": "Rio de Janeiro",
-        "População": "6.211.423"
-    },
-    {
-        "id": 14,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Vit%C3%B3ria.svg/480px-Bandeira_de_Vit%C3%B3ria.svg.png",
-        "Região": "Sudeste",
-        "Estado": "Espírito Santo",
-        "Capital": "Vitória",
-        "População": "365.855"
-    },
-    {
-        "id": 15,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_de_Cuiab%C3%A1.svg/480px-Bandeira_de_Cuiab%C3%A1.svg.png",
         "Região": "Centro-Oeste",
-        "Estado": "Mato Grosso",
-        "Capital": "Cuiabá",
-        "População": "618.124"
+        "regiao": [
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_de_Cuiab%C3%A1.svg/480px-Bandeira_de_Cuiab%C3%A1.svg.png",
+                "Estado": "Mato Grosso",
+                "Capital": "Cuiabá",
+                "População": "618.124"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandeira_de_Campo_Grande.svg/480px-Bandeira_de_Campo_Grande.svg.png",
+                "Estado": "Mato Grosso do Sul",
+                "Capital": "Campo Grande",
+                "População": "897.938"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/480px-Bandeira_de_Goi%C3%A2nia.svg.png",
+                "Estado": "Goiás",
+                "Capital": "Goiânia",
+                "População": "1.488.920"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/480px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
+                "Estado": "Distrito Federal",
+                "Capital": "Brasília",
+                "População": "2.817.068"
+            }
+        ]
     },
+
     {
-        "id": 16,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandeira_de_Campo_Grande.svg/480px-Bandeira_de_Campo_Grande.svg.png",
-        "Região": "Centro-Oeste",
-        "Estado": "Mato Grosso do Sul",
-        "Capital": "Campo Grande",
-        "População": "897.938"
-    },
-    {
-        "id": 17,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/480px-Bandeira_de_Goi%C3%A2nia.svg.png",
-        "Região": "Centro-Oeste",
-        "Estado": "Goiás",
-        "Capital": "Goiânia",
-        "População": "1.488.920"
-    },
-    {
-        "id": 18,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/480px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
-        "Região": "Centro-Oeste",
-        "Estado": "Distrito Federal",
-        "Capital": "Brasília",
-        "População": "2.817.068"
-    },
-    {
-        "id": 19,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg/480px-Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg.png",
         "Região": "Nordeste",
-        "Estado": "Maranhão",
-        "Capital": "São Luís do Maranhão",
-        "População": "1.037.775"
-    },
-    {
-        "id": 20,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandeira_de_Teresina.svg/480px-Bandeira_de_Teresina.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Piauí",
-        "Capital": "Teresina",
-        "População": "866.300"
-    },
-    {
-        "id": 21,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandeira_de_Fortaleza.svg/480px-Bandeira_de_Fortaleza.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Ceará",
-        "Capital": "Fortaleza",
-        "População": "2.428.678"
-    },
-    {
-        "id": 22,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bandeira_de_Natal.svg/480px-Bandeira_de_Natal.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Rio Grande do Norte",
-        "Capital": "Natal",
-        "População": "751.300"
-    },
-    {
-        "id": 23,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandeira_de_Jo%C3%A3o_Pessoa.svg/480px-Bandeira_de_Jo%C3%A3o_Pessoa.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Paraíba",
-        "Capital": "João Pessoa",
-        "População": "833.932"
-    },
-    {
-        "id": 24,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandeira_de_Recife.svg/480px-Bandeira_de_Recife.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Pernambuco",
-        "Capital": "Recife",
-        "População": "1.488.920"
-    },
-    {
-        "id": 25,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bandeira_de_Macei%C3%B3.svg/480px-Bandeira_de_Macei%C3%B3.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Alagoas",
-        "Capital": "Maceió,",
-        "População": "957.916"
-    },
-    {
-        "id": 26,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bandeira_de_Aracaju.svg/480px-Bandeira_de_Aracaju.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Sergipe",
-        "Capital": "Aracaju",
-        "População": "602.757"
-    },
-    {
-        "id": 27,
-        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bandeira_de_Salvador.svg/480px-Bandeira_de_Salvador.svg.png",
-        "Região": "Nordeste",
-        "Estado": "Bahia",
-        "Capital": "Salvador",
-        "População": "2.418.005"
+        "regiao": [
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg/480px-Bandeira_de_S%C3%A3o_Lu%C3%ADs.svg.png",
+                "Estado": "Maranhão",
+                "Capital": "São Luís do Maranhão",
+                "População": "1.037.775"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandeira_de_Teresina.svg/480px-Bandeira_de_Teresina.svg.png",
+                "Estado": "Piauí",
+                "Capital": "Teresina",
+                "População": "866.300"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bandeira_de_Fortaleza.svg/480px-Bandeira_de_Fortaleza.svg.png",
+                "Estado": "Ceará",
+                "Capital": "Fortaleza",
+                "População": "2.428.678"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bandeira_de_Natal.svg/480px-Bandeira_de_Natal.svg.png",
+                "Estado": "Rio Grande do Norte",
+                "Capital": "Natal",
+                "População": "751.300"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bandeira_de_Jo%C3%A3o_Pessoa.svg/480px-Bandeira_de_Jo%C3%A3o_Pessoa.svg.png",
+                "Estado": "Paraíba",
+                "Capital": "João Pessoa",
+                "População": "833.932"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandeira_de_Recife.svg/480px-Bandeira_de_Recife.svg.png",
+                "Estado": "Pernambuco",
+                "Capital": "Recife",
+                "População": "1.488.920"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bandeira_de_Macei%C3%B3.svg/480px-Bandeira_de_Macei%C3%B3.svg.png",
+                "Estado": "Alagoas",
+                "Capital": "Maceió,",
+                "População": "957.916"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bandeira_de_Aracaju.svg/480px-Bandeira_de_Aracaju.svg.png",
+                "Estado": "Sergipe",
+                "Capital": "Aracaju",
+                "População": "602.757"
+            },
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bandeira_de_Salvador.svg/480px-Bandeira_de_Salvador.svg.png",
+                "Estado": "Bahia",
+                "Capital": "Salvador",
+                "População": "2.418.005"
+            }
+        ]
     }
 ]
