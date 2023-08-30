@@ -10,7 +10,7 @@
 
     {
         "id": 2,
-        "Bandeira": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bandeira_de_Boa_Vista.svg/480px-Bandeira_de_Boa_Vista.svg.png",
         "Região": "Norte",
         "Estado": "Roraima",
         "Capital": "Boa Vista",
@@ -37,7 +37,7 @@
 
     {
         "id": 5,
-        "Bandeira": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bandeira_de_Palmas.svg/480px-Bandeira_de_Palmas.svg.png",
         "Região": "Norte",
         "Estado": "Tocantins",
         "Capital": "Palmas",
@@ -55,7 +55,7 @@
 
     {
         "id": 7,
-        "Bandeira": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bandeira_de_Macap%C3%A1.svg/480px-Bandeira_de_Macap%C3%A1.svg.png",
         "Região": "Norte",
         "Estado": "Amapá",
         "Capital": "Macapá",
@@ -145,7 +145,7 @@
 
     {
         "id": 17,
-        "Bandeira": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/480px-Bandeira_de_Goi%C3%A2nia.svg.png",
         "Região": "Centro-Oeste",
         "Estado": "Goiás",
         "Capital": "Goiânia",
@@ -154,7 +154,7 @@
 
     {
         "id": 18,
-        "Bandeira": "",
+        "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/480px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
         "Região": "Centro-Oeste",
         "Estado": "Distrito Federal",
         "Capital": "Brasília",
