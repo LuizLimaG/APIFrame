@@ -44,6 +44,12 @@
                 "Capital": "Macapá",
                 "População": "512.902"
             }
+            {
+                "Bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bandeira_de_Macap%C3%A1.svg/480px-Bandeira_de_Macap%C3%A1.svg.png",
+                "Estado": "Teste",
+                "Capital": "Teste",
+                "População": "Teste"
+            }
         ]
     },
 
